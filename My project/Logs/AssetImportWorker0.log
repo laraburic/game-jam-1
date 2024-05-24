@@ -201,3 +201,51 @@ Received Import Request.
 Start importing Assets/Scenes using Guid(8be0d4302cffa469c97968a42c047e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a6a909a6d5a0dff9560e133d42c4eb8') in 0.010401 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.367191 seconds.
+  path: Assets/Scenes/Bianca.unity
+  artifactKey: Guid(73159822ea2ae4fd4bccfffae44afd48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Bianca.unity using Guid(73159822ea2ae4fd4bccfffae44afd48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '966193a7354f6bae6b57c5da866161ce') in 0.000950 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 4.712810 seconds.
+  path: Assets/Scenes/Bianca.unity
+  artifactKey: Guid(73159822ea2ae4fd4bccfffae44afd48) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/Bianca.unity using Guid(73159822ea2ae4fd4bccfffae44afd48) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'e04920eb8c9c7b132a8888a72a22a30b') in 0.017779 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.912878 seconds.
+  path: Assets/Scenes/Viv.unity
+  artifactKey: Guid(145bb45eebea142858ff60def2865490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Viv.unity using Guid(145bb45eebea142858ff60def2865490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27b1dd612efd762c83c5c18ec02b7516') in 0.000503 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 9.333460 seconds.
+  path: Assets/Scenes/Viv.unity
+  artifactKey: Guid(145bb45eebea142858ff60def2865490) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/Viv.unity using Guid(145bb45eebea142858ff60def2865490) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'e9d0ef1f7fdd35e629a292a455cbfe80') in 0.002989 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.366283 seconds.
+  path: Assets/Scenes/Lara.unity
+  artifactKey: Guid(175e3ad0f706f46fb8353eaafb490aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Lara.unity using Guid(175e3ad0f706f46fb8353eaafb490aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62dbf01c96113e86edfc29f825f404af') in 0.000589 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.988117 seconds.
+  path: Assets/Scenes/Lara.unity
+  artifactKey: Guid(175e3ad0f706f46fb8353eaafb490aa2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/Lara.unity using Guid(175e3ad0f706f46fb8353eaafb490aa2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'ce2bfee825d26dfeada903171ab25263') in 0.003784 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
